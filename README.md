@@ -1,7 +1,3 @@
-Here's a revised README template for a general-purpose chatbot built using Streamlit, OpenAI, LangChain, and Chroma. This version is designed to accommodate a broader range of topics beyond 3D bioprinting.
-
----
-
 # RAG using local LLMs:
 
 This application is a versatile chatbot designed to answer queries across a wide range of topics using a retrieval-augmented generation (RAG) approach. The chatbot integrates the OpenAI, LangChain, and Chroma libraries to retrieve and generate responses based on a comprehensive database of documents.

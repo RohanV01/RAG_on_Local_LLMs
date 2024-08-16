@@ -1,0 +1,10 @@
+myenv
+venv
+llm_thakan_test.py
+pdf_merger.py
+RAG_test.ipynb
+chroma_db_bioinks
+chroma_db
+bioink5_papers
+bioink_papers_full
+__pycache__
